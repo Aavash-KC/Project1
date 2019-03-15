@@ -1,0 +1,201 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body{
+	max-width:100%;
+	height:auto;
+}
+body{
+	max-width:100%;
+	height:auto;
+}
+h1{
+	color: orange;
+}
+.w{
+	height: 100px;
+	background-color: #0e571a;
+}
+.w1{
+	width: 50%;
+	float: left;
+	height: 75px;
+	padding: 8px;
+}
+.w1 img{
+	margin-left: 50px;
+}
+.w2{
+	width: 50%;
+	float: right;
+	height: 75px;
+	padding: 18px;
+}
+ul.nav-menu{
+	padding: 14px;
+	text-align: center;
+	list-style: none;
+}
+ul.nav-menu li, a {
+	display: inline-block;
+}
+ul.nav-menu a {
+	text-transform: uppercase;
+	font-size: 14px;
+	color: orange;
+	text-decoration: none;
+	padding: 10px;
+	margin-left: 10px;
+}
+ul.nav-menu a:hover {
+	color: white;
+}
+.Con_wrp{
+	height: 680px;
+	padding: 60px 15px;	
+	background-color: #f5f5f5;
+}
+.wr1{
+	width: 100%;
+}
+.wr1 h1{
+	color: orange;
+	margin-left: 600px;
+}
+.wr2{
+	padding-left: 100px;
+	padding-top: 100px;
+	width: 50%;
+	float: left;
+	padding-left: 400px;
+}
+.wr2 .txbx{
+	width: 300px;
+	height: 30px;
+	font-size: 14px;
+	padding: 9px;
+}
+.wr2 .msgbx{
+	width: 300px;
+	height: 200px;
+	font-size: 14px;
+	padding: 9px;
+}
+.wr2 button{
+	font-size: 24px;
+	background-color: #0e571a;
+	border-width: 0px;
+	border-radius: 5px;
+	padding: 5px;
+}
+.wr2 a{	
+	text-decoration: none;
+	color: white;
+}
+.wr3{
+	padding-top: 100px;
+	width: 50%;
+	float: left;
+}
+.ser{
+	background-color: rgb(230,230,230);
+	height: 920px;
+	padding: 60px 0px;
+	box-sizing: border-box;
+}
+.ser h1{
+	margin-left: 150px;
+	color: orange;
+	padding: 20px;
+}
+.ser table{
+	width: 80%;
+	margin-left: 150px;
+	font-size: 24px;
+	padding: 10px;
+}
+.ser td{
+	padding: 10px;
+}
+.wh{
+	background-color: white; 
+}
+.gr{
+	background-color: rgb(230,230,230);;
+}
+.ab{
+	height: 600px;
+	background-color: #0e571a;
+	padding: 80px;
+}
+.ab p{
+	color: white;
+}
+.kp{
+	margin-top: 25px;
+	width: 60%;
+	float: left;
+}
+.kp h1{
+	font-family: playfair_reg;
+	font-size: 34px;
+	color: orange;
+}
+.kp p{
+	font-family: 'PT Sans',sans-serif;
+	line-height: 32px;
+	color: white;
+	font-size: 24px;
+}
+.kp p{
+	margin-left: 200px;
+	margin-right: 10px;
+}
+.kp h1{
+	margin-left: 200px;
+}
+.co{
+	margin-top: 25px;
+	width: 40%;
+	float: left;
+}
+.co h1{
+	font-family: playfair_reg;
+	font-size: 34px;
+	color: orange;
+	margin-left: 20px;
+}
+.co p{
+	font-family: 'PT Sans',sans-serif;
+	line-height: 32px;
+	color: white;
+	font-size: 24px;
+}
+.co a{
+	text-decoration: none;
+}
+.co i{
+	margin-left: 20px;
+	color: #f5f5f5;
+	font-size: 50px;
+}
+.footer{
+	height: 80px;
+	background-color: #093A11;
+	padding: 28px;
+}
+.footer p{
+	color: white;
+	font-size: 18px;
+	margin-left: 200px;
+}
+.f1{
+	width: 50%;
+	float: left;
+}
+.f2{
+	width: 50%;
+	float: right;
+}

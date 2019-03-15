@@ -1,0 +1,323 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body{
+	max-width:100%;
+	height:auto;
+}
+h1{
+	color: orange;
+}
+.w{
+	height: 100px;
+	background-color: #0e571a;
+}
+.w1{
+	width: 50%;
+	float: left;
+	height: 75px;
+	padding: 8px;
+}
+.w1 img{
+	margin-left: 50px;
+}
+.w2{
+	width: 50%;
+	float: right;
+	height: 75px;
+	padding: 18px;
+}
+ul.nav-menu{
+	padding: 14px;
+	text-align: center;
+	list-style: none;
+}
+ul.nav-menu li, a {
+	display: inline-block;
+}
+ul.nav-menu a {
+	text-transform: uppercase;
+	font-size: 14px;
+	color: orange;
+	text-decoration: none;
+	padding: 10px;
+	margin-left: 10px;
+}
+ul.nav-menu a:hover {
+	color: white;
+}
+.pic{
+	height: 700px;
+	background-image: url('../images/tara.jpg');
+	background-size: 100% 100%;
+}
+.pic p{
+	text-align: left;
+	color: white;
+	font-size: 24px;
+	margin-left: 30px;
+}
+.form1{
+	background-color: rgba(255,165,0,.5);
+	border-radius: 20px;
+	margin-right: 10px;
+	width: 25%;
+	float: right;
+	padding-left: 10px;
+}
+.form1 form{
+	padding-left: 50px;
+}
+.form1 label{
+	font-size: 24px;
+	color: #0e571a;
+}
+.form1 button{
+	font-size: 24px;
+	background-color: #0e571a;
+	border-width: 0px;
+	border-radius: 5px;
+	padding: 5px;
+	width: 200px;
+}
+.cn{
+	width: 150px;
+}
+.form1 a{	
+	text-decoration: none;
+	color: white;
+}
+.rad{
+	width: 20px;
+	height: 20px;
+}
+.wr1{
+	height: 670px;
+	background-color: #0e571a;
+	padding: 20px 60px;
+}
+.p1{
+	width: 50%;
+	float: left;
+}
+.p1 p{
+	font-family: 'PT Sans',sans-serif;
+	line-height: 32px;
+	color: white;
+	font-size: 19px;
+}
+.p1 h1{
+	font-family: playfair_reg;
+	font-size: 34px;
+	color: orange;
+	margin-top: 18px;
+	margin-left: 150px;
+}
+.p1 p{
+	margin-top: 18px;
+	margin-left: 150px;
+}
+.sp{
+	width: 50%;
+	float: right;
+}
+.sp img{
+	margin-top: 150px;
+	margin-left: 60px;
+}
+.wr2{
+	height: 650px;
+	background-color: #ffffff;
+	padding: 75px 200px;
+}
+.wr2 .des{
+	margin-right: 5px;
+	width: 48%;
+	float: left; 
+	background-image: url('../images/child.jpg');
+	height: 100%;
+	background-size: 600px 500px;
+}
+.des h1, p, button{
+	margin-left: 20px;
+	margin-right: 250px;
+}
+.des p{
+	font-size: 28px;
+}
+.des h1{
+	font-family: playfair_reg;
+	font-size: 34px;
+	color: #a2873c;
+}
+.des button{
+	font-size: 24px;
+	background-color: #0e571a;
+	border-width: 0px;
+	border-radius: 5px;
+	padding: 5px;
+}
+.des a{	
+	text-decoration: none;
+	color: white;
+}
+.wr2 .sc{
+	margin-left: 5px;
+	width: 48%;
+	float: right; 
+	height: 100%;
+	background-image: url('../images/mountain.jpg');
+	background-size: 600px 500px;
+}
+.sc h1, .sc button, .sc p{
+	margin-left: 200px;
+	margin-right: 5px;
+}
+.sc p{
+	font-size: 24px;
+}
+.sc button{
+	font-size: 24px;
+	background-color: #0e571a;
+	border-width: 0px;
+	border-radius: 5px;
+	padding: 5px;
+}
+.sc a{
+	text-decoration: none;
+	color: white;
+}
+.wr3{
+	height: 400px;
+	background-color: #ffffff;
+	padding: 75px 200px;
+}
+.pic2 {
+	margin-left: 5px;
+	width: 48%;
+	float: left; 
+	height: 100%;
+}
+.char_flight{
+	margin-left: 5px;
+	width: 48%;
+	float: right; 
+	height: 100%;
+}
+.char_flight{
+	font-size: 24px;
+}
+.char_flight button{
+	font-size: 24px;
+	background-color: #0e571a;
+	border-width: 0px;
+	border-radius: 5px;
+	padding: 5px;
+	color: white;
+}
+.char_flight a{
+	text-decoration: none;
+	color: white;
+}
+.ser{
+	background-color: rgb(230,230,230);
+	height: 920px;
+	padding: 60px 0px;
+	box-sizing: border-box;
+}
+.ser h1{
+	margin-left: 150px;
+	color: orange;
+	padding: 20px;
+}
+.ser table{
+	width: 80%;
+	margin-left: 150px;
+	font-size: 24px;
+	padding: 10px;
+}
+.ser td{
+	padding: 10px;
+}
+.wh{
+	background-color: white; 
+}
+.gr{
+	background-color: rgb(230,230,230);
+}
+.ab{
+	height: 600px;
+	background-color: #0e571a;
+	padding: 80px;
+}
+.ab p{
+	color: white;
+}
+.kp{
+	margin-top: 25px;
+	width: 60%;
+	float: left;
+}
+.kp h1{
+	font-family: playfair_reg;
+	font-size: 34px;
+	color: orange;
+}
+.kp p{
+	font-family: 'PT Sans',sans-serif;
+	line-height: 32px;
+	color: white;
+	font-size: 24px;
+}
+.kp p{
+	margin-left: 200px;
+	margin-right: 10px;
+}
+.kp h1{
+	margin-left: 200px;
+}
+.co{
+	margin-top: 25px;
+	width: 40%;
+	float: left;
+}
+.co h1{
+	font-family: playfair_reg;
+	font-size: 34px;
+	color: orange;
+	margin-left: 20px;
+}
+.co p{
+	font-family: 'PT Sans',sans-serif;
+	line-height: 32px;
+	color: white;
+	font-size: 24px;
+}
+.co a{
+	text-decoration: none;
+}
+.co i{
+	margin-left: 20px;
+	color: #f5f5f5;
+	font-size: 50px;
+}
+.footer{
+	height: 80px;
+	background-color: #093A11;
+	padding: 28px;
+}
+.footer p{
+	color: white;
+	font-size: 18px;
+	margin-left: 200px;
+}
+.f1{
+	width: 50%;
+	float: left;
+}
+.f2{
+	width: 50%;
+	float: right;
+}
